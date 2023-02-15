@@ -2,17 +2,15 @@
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
 <project xmlns="http://audacity.sourceforge.net/xml/" projname="GetReadyToTossSalad_data" version="1.3.0" audacityversion="2.2.0" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="11.7474372705" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
-		<tag name="ALBUM" value="Tramps Are Handsome, We&apos;re The Jugglers"/>
-		<tag name="TITLE" value="Rumble"/>
-		<tag name="COMMENTS" value="URL: http://freemusicarchive.org/music/Railkid_Station/Tramps_Are_Handsome_Were_The_Jugglers/02_-_Rumble&#x000d;&#x000a;Comments: http://freemusicarchive.org/&#x000d;&#x000a;Curator: &#x000d;&#x000a;Copyright: Attribution-NonCommercial-NoDerivatives (aka Music Sharing): http://creativecommons.org/licenses/by-nc-nd/3.0/"/>
-		<tag name="TRACKNUMBER" value="2"/>
-		<tag name="Copyright message" value="Attribution-NonCommercial-NoDerivatives (aka Music Sharing): http://creativecommons.org/licenses/by-nc-nd/3.0/"/>
-		<tag name="ARTIST" value="Railkid Station"/>
-		<tag name="Band" value="Railkid Station"/>
-		<tag name="YEAR" value="2013-11-21T12:39:19"/>
-		<tag name="Unknown text information frame" value="2013-11-21 12:39:19"/>
+		<tag name="ALBUM" value="Salad Bowl"/>
+		<tag name="TITLE" value="Lets Get Ready To Toss Salad"/>
+		<tag name="TRACKNUMBER" value="1"/>
+		<tag name="COMMENTS" value="EPIC!!!"/>
+		<tag name="ARTIST" value="Bastien Auxer"/>
+		<tag name="YEAR" value="2023"/>
+		<tag name="GENRE" value="Recorded audio"/>
 	</tags>
-	<wavetrack name="Audio Track" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+	<wavetrack name="Anouncer" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
 		<waveclip offset="0.00000000">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="302592">
 				<waveblock start="0">
@@ -25,7 +23,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Audio Track" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+	<wavetrack name="Anouncer" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
 		<waveclip offset="0.00000000">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="302592">
 				<waveblock start="0">
